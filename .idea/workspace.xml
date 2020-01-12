@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3092c5d5-2c18-4098-8f67-838afdc887a1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WIWxIMJJeQsPT6GxFWIFMYK8sI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="TestUI.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DemoUIFwk" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestUI" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestUI.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3092c5d5-2c18-4098-8f67-838afdc887a1" name="Default Changelist" comment="" />
+      <created>1578837833203</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578837833203</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="311" y="58" width="800" height="677" key="#Project_Structure" timestamp="1578838461696">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="311" y="58" width="800" height="677" key="#Project_Structure/67.27.1299.741@67.27.1299.741" timestamp="1578838461696" />
+    <state x="497" y="324" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1578838595294">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="497" y="324" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/67.27.1299.741@67.27.1299.741" timestamp="1578838595294" />
+    <state x="469" y="277" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1578838598219">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="469" y="277" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/67.27.1299.741@67.27.1299.741" timestamp="1578838598219" />
+    <state width="1253" height="156" key="GridCell.Tab.0.bottom" timestamp="1578847062127">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="156" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1578847062127" />
+    <state width="1253" height="156" key="GridCell.Tab.0.center" timestamp="1578847062126">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="156" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1578847062126" />
+    <state width="1253" height="156" key="GridCell.Tab.0.left" timestamp="1578847062125">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="156" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1578847062125" />
+    <state width="1253" height="156" key="GridCell.Tab.0.right" timestamp="1578847062127">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="156" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1578847062127" />
+    <state x="249" y="54" width="924" height="684" key="Maven.ArtifactSearchDialog" timestamp="1578839115190">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="249" y="54" width="924" height="684" key="Maven.ArtifactSearchDialog/67.27.1299.741@67.27.1299.741" timestamp="1578839115190" />
+  </component>
+</project>
